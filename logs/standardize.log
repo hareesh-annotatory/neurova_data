@@ -1,0 +1,104 @@
+2025-12-18 15:26:40.262840 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_fixed.json | Extra data: line 2 column 1 (char 649)
+2025-12-18 15:26:40.294349 | BROKEN FILE: ../input_ready\claude_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 15:26:40.294823 | BROKEN FILE: ../input_ready\gemini_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 15:26:40.295213 | BROKEN FILE: ../input_ready\gold_standard_batches_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 15:26:40.295605 | BROKEN FILE: ../input_ready\grok_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 15:26:40.296220 | STANDARDIZATION COMPLETE | processed=880 | broken_files=5
+2025-12-18 16:00:09.721562 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_fixed.json | 'charmap' codec can't decode byte 0x9d in position 582225: character maps to <undefined>
+2025-12-18 16:00:09.723891 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_recovered.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:00:09.724513 | BROKEN FILE: ../input_ready\claude_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:00:09.725052 | BROKEN FILE: ../input_ready\gemini_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:00:09.725646 | BROKEN FILE: ../input_ready\gold_standard_batches_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:00:09.726129 | BROKEN FILE: ../input_ready\grok_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:00:09.726852 | STANDARDIZATION COMPLETE | processed=0 | broken_files=6
+2025-12-18 16:01:26.967508 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_fixed.json | 'charmap' codec can't decode byte 0x9d in position 582225: character maps to <undefined>
+2025-12-18 16:01:26.974233 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_recovered.json | 'charmap' codec can't decode byte 0x9d in position 836674: character maps to <undefined>
+2025-12-18 16:01:26.975453 | BROKEN FILE: ../input_ready\claude_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:01:26.975963 | BROKEN FILE: ../input_ready\gemini_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:01:26.976410 | BROKEN FILE: ../input_ready\gold_standard_batches_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:01:26.976831 | BROKEN FILE: ../input_ready\grok_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:01:26.977235 | STANDARDIZATION COMPLETE | processed=0 | broken_files=6
+2025-12-18 16:01:39.616295 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_fixed.json | 'charmap' codec can't decode byte 0x9d in position 582225: character maps to <undefined>
+2025-12-18 16:01:39.622497 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_recovered.json | 'charmap' codec can't decode byte 0x9d in position 836674: character maps to <undefined>
+2025-12-18 16:01:39.623923 | BROKEN FILE: ../input_ready\claude_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:01:39.624576 | BROKEN FILE: ../input_ready\gemini_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:01:39.625209 | BROKEN FILE: ../input_ready\gold_standard_batches_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:01:39.625828 | BROKEN FILE: ../input_ready\grok_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:01:39.626319 | STANDARDIZATION COMPLETE | processed=0 | broken_files=6
+2025-12-18 16:03:56.289747 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_fixed.json | 'charmap' codec can't decode byte 0x9d in position 582225: character maps to <undefined>
+2025-12-18 16:03:56.296107 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_recovered.json | 'charmap' codec can't decode byte 0x9d in position 836674: character maps to <undefined>
+2025-12-18 16:03:56.297213 | BROKEN FILE: ../input_ready\claude_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:03:56.297722 | BROKEN FILE: ../input_ready\gemini_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:03:56.298269 | BROKEN FILE: ../input_ready\gold_standard_batches_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:03:56.298790 | BROKEN FILE: ../input_ready\grok_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:03:56.299164 | STANDARDIZATION COMPLETE | processed=0 | broken_files=6
+2025-12-18 16:04:13.421758 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_fixed.json | 'charmap' codec can't decode byte 0x9d in position 582225: character maps to <undefined>
+2025-12-18 16:04:13.428288 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_recovered.json | 'charmap' codec can't decode byte 0x9d in position 836674: character maps to <undefined>
+2025-12-18 16:04:13.429538 | BROKEN FILE: ../input_ready\claude_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:04:13.430055 | BROKEN FILE: ../input_ready\gemini_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:04:13.430589 | BROKEN FILE: ../input_ready\gold_standard_batches_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:04:13.431233 | BROKEN FILE: ../input_ready\grok_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:04:13.431698 | STANDARDIZATION COMPLETE | processed=0 | broken_files=6
+2025-12-18 16:04:42.241814 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_fixed.json | 'charmap' codec can't decode byte 0x9d in position 836674: character maps to <undefined>
+2025-12-18 16:04:42.249389 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_recovered.json | 'charmap' codec can't decode byte 0x9d in position 836674: character maps to <undefined>
+2025-12-18 16:04:42.251871 | BROKEN FILE: ../input_ready\claude_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:04:42.252663 | BROKEN FILE: ../input_ready\gemini_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:04:42.253426 | BROKEN FILE: ../input_ready\gold_standard_batches_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:04:42.254151 | BROKEN FILE: ../input_ready\grok_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:04:42.254947 | STANDARDIZATION COMPLETE | processed=0 | broken_files=6
+2025-12-18 16:07:12.578753 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_fixed.json | 'charmap' codec can't decode byte 0x9d in position 582225: character maps to <undefined>
+2025-12-18 16:07:12.585220 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_recovered.json | 'charmap' codec can't decode byte 0x9d in position 836674: character maps to <undefined>
+2025-12-18 16:07:12.586447 | BROKEN FILE: ../input_ready\claude_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:07:12.586897 | BROKEN FILE: ../input_ready\gemini_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:07:12.587349 | BROKEN FILE: ../input_ready\gold_standard_batches_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:07:12.587709 | BROKEN FILE: ../input_ready\grok_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:07:12.587969 | STANDARDIZATION COMPLETE | processed=0 | broken_files=6
+2025-12-18 16:09:28.498433 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_fixed.json | 'charmap' codec can't decode byte 0x9d in position 836674: character maps to <undefined>
+2025-12-18 16:09:28.499881 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_recovered.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:09:28.500475 | BROKEN FILE: ../input_ready\claude_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:09:28.500953 | BROKEN FILE: ../input_ready\gemini_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:09:28.501406 | BROKEN FILE: ../input_ready\gold_standard_batches_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:09:28.501826 | BROKEN FILE: ../input_ready\grok_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:09:28.502176 | STANDARDIZATION COMPLETE | processed=0 | broken_files=6
+2025-12-18 16:58:17.128452 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_fixed.json | 'charmap' codec can't decode byte 0x9d in position 786242: character maps to <undefined>
+2025-12-18 16:58:17.132344 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_recovered.json | 'charmap' codec can't decode byte 0x9d in position 1103275: character maps to <undefined>
+2025-12-18 16:58:17.133094 | BROKEN FILE: ../input_ready\claude_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:58:17.133552 | BROKEN FILE: ../input_ready\gemini_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:58:17.134030 | BROKEN FILE: ../input_ready\gold_standard_batches_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:58:17.134511 | BROKEN FILE: ../input_ready\grok_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 16:58:17.134718 | STANDARDIZATION COMPLETE | processed=0 | broken_files=6
+2025-12-18 17:55:18.935380 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_fixed.json | 'charmap' codec can't decode byte 0x9d in position 786242: character maps to <undefined>
+2025-12-18 17:55:18.953411 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_recovered.json | 'charmap' codec can't decode byte 0x9d in position 1103275: character maps to <undefined>
+2025-12-18 17:55:18.955863 | BROKEN FILE: ../input_ready\claude_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 17:55:18.956396 | BROKEN FILE: ../input_ready\gemini_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 17:55:18.957900 | BROKEN FILE: ../input_ready\gold_standard_batches_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 17:55:18.958637 | BROKEN FILE: ../input_ready\grok_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 17:55:18.959056 | STANDARDIZATION COMPLETE | processed=0 | broken_files=6
+2025-12-18 18:02:01.266208 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_fixed.json | 'charmap' codec can't decode byte 0x9d in position 786242: character maps to <undefined>
+2025-12-18 18:02:01.290851 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_recovered.json | 'charmap' codec can't decode byte 0x9d in position 582225: character maps to <undefined>
+2025-12-18 18:02:01.291843 | BROKEN FILE: ../input_ready\claude_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:02:01.292244 | BROKEN FILE: ../input_ready\gemini_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:02:01.292507 | BROKEN FILE: ../input_ready\gold_standard_batches_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:02:01.292766 | BROKEN FILE: ../input_ready\grok_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:02:01.293024 | STANDARDIZATION COMPLETE | processed=0 | broken_files=6
+2025-12-18 18:02:14.329283 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_fixed.json | 'charmap' codec can't decode byte 0x9d in position 786242: character maps to <undefined>
+2025-12-18 18:02:14.333283 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_recovered.json | 'charmap' codec can't decode byte 0x9d in position 582225: character maps to <undefined>
+2025-12-18 18:02:14.333987 | BROKEN FILE: ../input_ready\claude_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:02:14.334253 | BROKEN FILE: ../input_ready\gemini_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:02:14.334483 | BROKEN FILE: ../input_ready\gold_standard_batches_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:02:14.334684 | BROKEN FILE: ../input_ready\grok_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:02:14.334846 | STANDARDIZATION COMPLETE | processed=0 | broken_files=6
+2025-12-18 18:03:47.020394+00:00 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_fixed.json | 'charmap' codec can't decode byte 0x9d in position 786242: character maps to <undefined>
+2025-12-18 18:03:47.024007+00:00 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_recovered.json | 'charmap' codec can't decode byte 0x9d in position 582225: character maps to <undefined>
+2025-12-18 18:03:47.024636+00:00 | BROKEN FILE: ../input_ready\claude_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:03:47.025207+00:00 | BROKEN FILE: ../input_ready\gemini_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:03:47.025455+00:00 | BROKEN FILE: ../input_ready\gold_standard_batches_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:03:47.025684+00:00 | BROKEN FILE: ../input_ready\grok_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:03:47.025867+00:00 | STANDARDIZATION COMPLETE | processed=0 | broken_files=6
+2025-12-18 18:04:35.661947+00:00 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_fixed.json | 'charmap' codec can't decode byte 0x9d in position 786242: character maps to <undefined>
+2025-12-18 18:04:35.665365+00:00 | BROKEN FILE: ../input_ready\chatgpt_Gold_v1.0_recovered.json | 'charmap' codec can't decode byte 0x9d in position 582225: character maps to <undefined>
+2025-12-18 18:04:35.666015+00:00 | BROKEN FILE: ../input_ready\claude_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:04:35.666278+00:00 | BROKEN FILE: ../input_ready\gemini_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:04:35.666488+00:00 | BROKEN FILE: ../input_ready\gold_standard_batches_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:04:35.666681+00:00 | BROKEN FILE: ../input_ready\grok_fixed.json | Expecting value: line 1 column 1 (char 0)
+2025-12-18 18:04:35.666869+00:00 | STANDARDIZATION COMPLETE | processed=0 | broken_files=6
